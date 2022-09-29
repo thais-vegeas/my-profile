@@ -1,0 +1,32 @@
+body{
+	text-align: center;
+	color: #AC7088;
+	background-color: #F9F9F9;
+	margin: 0;
+
+}
+
+h1{
+	border: 1px solid #967E76;
+	margin: 10px; 30%;
+	border-radius: 7px
+}
+
+div{
+	margin: 0 50px;
+}
+
+img{
+	width: 200px;
+	height: 200px;
+	border-radius: 50%;
+
+}
+
+.card-info{
+	border: 1px solid #A77979;
+	margin: 10px 30%;
+	box-shadow: 5px 5px 6px #411530;
+	padding: 25px;
+
+}
